@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Compare plt.get_backend() in lowercase (#8409)
