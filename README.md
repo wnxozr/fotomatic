@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add domain checks to CI docs page (#8714)
