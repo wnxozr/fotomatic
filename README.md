@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
