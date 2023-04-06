@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add PR Summary step to Ultralytics Actions (#7675)
