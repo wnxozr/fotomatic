@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+YAML reformat (#7669)
