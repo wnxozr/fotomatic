@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Allow Annotator PIL.Image inputs (#8397)
