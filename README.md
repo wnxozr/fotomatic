@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+ultralytics 8.0.229 add model.embed() method (#7098)
