@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Use pathlib in DOTA ops (#7552)
