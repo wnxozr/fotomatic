@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
