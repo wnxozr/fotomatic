@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Update the heatmap module code + docs (#7045)
