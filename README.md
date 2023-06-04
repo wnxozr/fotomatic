@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
