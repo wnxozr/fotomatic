@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
