@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Python refactorings and simplifications (#7549)
