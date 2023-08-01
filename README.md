@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
