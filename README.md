@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
