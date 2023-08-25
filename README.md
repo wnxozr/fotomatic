@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+ultralytics 8.0.229 add model.embed() method (#7098)
