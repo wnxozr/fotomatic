@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
