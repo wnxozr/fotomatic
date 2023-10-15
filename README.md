@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Merge pull request #22 from SkalskiP/patch-1
