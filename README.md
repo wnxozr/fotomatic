@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+* fix for predicting with batch_size > 1
