@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+* fix for predicting with batch_size > 1
