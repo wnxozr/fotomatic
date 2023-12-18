@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
