@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Fix Yolo 8.0.206 scale bug (#7821)
