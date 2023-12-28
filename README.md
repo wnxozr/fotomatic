@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Resize angle, count, and stage on keypoint number change (#7598)
