@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Add docstrings to new HUB functions (#7576)
