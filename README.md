@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Add plot_images conf_thresh parameter (#8446)
