@@ -1,1 +1,1 @@
-ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
