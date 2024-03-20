@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
