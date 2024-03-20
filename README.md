@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
