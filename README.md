@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
