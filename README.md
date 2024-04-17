@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Expand Model method type hinting (#8279)
