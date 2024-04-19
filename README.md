@@ -1,1 +1,1 @@
-ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
