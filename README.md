@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
