@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Resize angle, count, and stage on keypoint number change (#7598)
