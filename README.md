@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
