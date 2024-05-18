@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
