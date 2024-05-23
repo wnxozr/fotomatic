@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Rename model_id to model.id (#8447)
