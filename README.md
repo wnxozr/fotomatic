@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Fix docker.yaml double-quote version bug (#7452)
