@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Expand Model method type hinting (#8279)
