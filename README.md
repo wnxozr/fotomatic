@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
