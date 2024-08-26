@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
