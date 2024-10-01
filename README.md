@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
