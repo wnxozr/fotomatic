@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
