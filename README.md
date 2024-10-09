@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
